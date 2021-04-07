@@ -1,4 +1,3 @@
-
 public class App {
     static void showtext(Integer age, String name, String likes, Boolean masculino) {
         String sexo = "";
