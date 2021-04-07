@@ -37,9 +37,9 @@ public class App {
         in = scan.nextLine();
 
         if (in.equalsIgnoreCase("y")) {
-            System.out.println("Closing...");
+            System.out.println("Closing");
         } else {
-            System.out.println("Closing...");
+            System.out.println("Closing");
         }
 
     }
